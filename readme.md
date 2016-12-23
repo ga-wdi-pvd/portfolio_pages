@@ -6,9 +6,7 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 
 You may continue with the "About Me" page you created when interviewing for this course. However, the intent is that **this will be the foundation of the portfolio page you display to employers**, so you'll probably want to make significant improvements!
 
-## Requirements
-
-**This lab counts as an assignment.** Your squad instructor will review your code and leave feedback by Monday.
+## Great to Haves
 
 - Your semantics and style should be separated appropriately: your CSS should be separate from your HTML.
 - Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
