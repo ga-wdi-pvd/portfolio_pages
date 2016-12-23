@@ -4,25 +4,22 @@
 
 Create a personal portfolio page and deploy it to [Github pages](https://pages.github.com/).
 
-You may continue with the "About Me" page you created when interviewing for this course. However, the intent is that **this will be the foundation of the portfolio page you display to employers**, so you'll probably want to make significant improvements!
+**This will be the foundation of the portfolio page you display to employers**, so you'll probably want to spend significant time on it!
 
 ## Great to Haves
 
 - Your semantics and style should be separated appropriately: your CSS should be separate from your HTML.
 - Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
 - Your CSS should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
-- Javascript isn't required, but you get bonus points for giving it a shot!
+- Javascript isn't required, but it you can totally include it!
 - Your page must be deployed to [Github pages](https://pages.github.com/). This is a free hosting service provided by Github. You should name your repository `your-username.github.io`. The result is that your page will be publicly available at http://your-username.github.io.
+- You can use Rails if you want. Although it should be published on Heroku instead of Github pages.
 
-> You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://pages.github.com/). If you run into any issues, just ask the instructor on lab support.
-
-### Submission
-
-Please **create an issue on this repo, ga-wdi-exercises/portfolio_pages**, containing a link to the **repo** you created -- not the webpage. So your issue should contain `http://github.com/wdidcstudent/wdidcstudent.github.io`, for example, and **not** `http://wdidcstudent.github.io`.
+> Don't remember how to push to Github pages? Reference [this](https://github.com/ga-wdi-exercises/project1) from project 1.
 
 ## Pairing with Others
 
-Every student must create their *own* website, but you're **welcome and encouraged** to collaborate with others! The best way to create a great website is to get targeted feedback from others at several points in the process.
+Student should create their *own* website, but you're **welcome and encouraged** to collaborate with others! The best way to create a great website is to get targeted feedback from others at several points in the process.
 
 ## Tips
 
